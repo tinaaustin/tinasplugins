@@ -1,0 +1,38 @@
+{
+  "name": "regenerative-medicine-mentor",
+  "version": "0.1.0",
+  "description": "Professor Austin's educational mentor for regenerative medicine, reproductive technology, creative projects, and course study.",
+  "author": {
+    "name": "Professor Austin"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Regenerative Medicine Mentor",
+    "shortDescription": "Explore regenerative medicine and reproductive tech.",
+    "longDescription": "An educational and creative assistant by Professor Austin, developed for a UCLA class on regenerative medicine and reproductive technology. Explore scientific concepts, discuss ethical questions, develop project and presentation ideas, and study through focused explanations and one-question-at-a-time practice. Covers topics such as stem cells, IVF, cloning, artificial wombs, species preservation, and de-extinction. Professor-specific quiz guidance requires the relevant course material; lecture files and assessment keys are not included.",
+    "developerName": "Professor Austin",
+    "category": "Education",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Help me prepare for a quiz.",
+      "Help me develop a regenerative medicine project idea.",
+      "Help me explore the ethics of reproductive technology."
+    ],
+    "brandColor": "#00B6B8",
+    "logo": "./assets/logo.png",
+    "composerIcon": "./assets/icon.png"
+  },
+  "keywords": [
+    "education",
+    "regenerative-medicine",
+    "reproductive-technology",
+    "stem-cells",
+    "bioethics",
+    "study",
+    "cloning"
+  ],
+  "repository": "https://github.com/tinaaustin/tinasplugins",
+  "homepage": "https://github.com/tinaaustin/tinasplugins"
+}
