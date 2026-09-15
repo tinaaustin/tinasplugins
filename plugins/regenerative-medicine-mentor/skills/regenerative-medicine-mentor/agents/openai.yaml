@@ -1,0 +1,4 @@
+interface:
+  display_name: "Regenerative Medicine Mentor"
+  short_description: "Study regenerative medicine and reproductive tech"
+  default_prompt: "Use $regenerative-medicine-mentor to help me understand a course topic or prepare for a quiz."
