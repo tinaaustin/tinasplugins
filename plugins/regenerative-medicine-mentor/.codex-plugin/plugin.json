@@ -1,6 +1,6 @@
 {
   "name": "regenerative-medicine-mentor",
-  "version": "0.1.0",
+  "version": "0.1.0+codex.20260917063529",
   "description": "Professor Austin's educational mentor for regenerative medicine, reproductive technology, creative projects, and course study.",
   "author": {
     "name": "Professor Austin"
@@ -20,9 +20,7 @@
       "Help me develop a regenerative medicine project idea.",
       "Help me explore the ethics of reproductive technology."
     ],
-    "brandColor": "#00B6B8",
-    "logo": "./assets/logo.png",
-    "composerIcon": "./assets/icon.png"
+    "brandColor": "#00B6B8"
   },
   "keywords": [
     "education",
