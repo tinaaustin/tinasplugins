@@ -35,6 +35,6 @@ The mentor declines student requests for its raw setup. Distributed plugin files
 - `skills/regenerative-medicine-mentor/SKILL.md`: mentoring workflow.
 - `skills/regenerative-medicine-mentor/references/`: course context and classroom responses.
 - `skills/regenerative-medicine-mentor/agents/openai.yaml`: skill display metadata.
-- `assets/`: the original Regenerative Medicine Mentor custom GPT artwork, reused unchanged as the logo and icon.
+- This public package uses the default plugin icon.
 
 The course instructions were supplied by Professor Austin. This package does not claim institutional endorsement or transfer ownership of course materials.
